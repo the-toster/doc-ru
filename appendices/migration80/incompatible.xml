@@ -157,7 +157,7 @@
       Работа параметра <parameter>key</parameter> в функции <function>array_key_exists</function>
       теперь приведена в соответствии с <function>isset</function> и
       обычным доступом к массиву. Все типы ключей теперь используют обычное приведение типов,
-      массив/объект к ключе приведёт к выбрасыванию <classname>TypeError</classname>.
+      массив/объект в ключе приведёт к выбрасыванию <classname>TypeError</classname>.
      </para>
     </listitem>
     <listitem>
